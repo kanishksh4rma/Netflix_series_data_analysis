@@ -22,8 +22,6 @@
 
 ![ss2](/screenshot/screenshot2.png)
 
-![ss3](/screenshot/screenshot3.png)
-
 ![ss4](/screenshot/screenshot--3.png)
 
 ---
