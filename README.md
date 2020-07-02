@@ -18,13 +18,13 @@
 ```
 # Screenshots : 
 
-![ss1]('/screenshot/screenshot1.png')
+![ss1](/screenshot/screenshot1.png)
 
-![ss2]('/screenshot/screenshot2.png')
+![ss2](/screenshot/screenshot2.png)
 
-![ss3]('/screenshot/screenshot3.png')
+![ss3](/screenshot/screenshot3.png)
 
-![ss4]('/screenshot/screenshot--3.png')
+![ss4](/screenshot/screenshot--3.png)
 
 ---
 
